@@ -12,10 +12,22 @@ One of my public projects is [dev-tools](https://github.com/pplancq/dev-tools), 
 - CI/CD: GitHub Actions, GitLab CI, Jenkins, Azure DevOps Pipelines
 - Containerization and Orchestration: Docker, Kubernetes
 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" alt="symfony" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="gitlab" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
+
 ## ⭐ GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pplancq&theme=material-palenight&show_icons=true&hide_title=true&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 Connect with me:
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30px"/>](https://www.linkedin.com/in/pplancq/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="32px"/>](https://www.linkedin.com/in/pplancq/)
