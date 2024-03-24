@@ -12,5 +12,10 @@ One of my public projects is [dev-tools](https://github.com/pplancq/dev-tools), 
 - CI/CD: GitHub Actions, GitLab CI, Jenkins, Azure DevOps Pipelines
 - Containerization and Orchestration: Docker, Kubernetes
 
-## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/pplancq/)
+## ⭐ GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pplancq&theme=material-palenight&show_icons=true&hide_title=true&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 📫 Connect with me:
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30px"/>](https://www.linkedin.com/in/pplancq/)
