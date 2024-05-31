@@ -12,17 +12,19 @@ One of my public projects is [dev-tools](https://github.com/pplancq/dev-tools), 
 - CI/CD: GitHub Actions, GitLab CI, Jenkins, Azure DevOps Pipelines
 - Containerization and Orchestration: Docker, Kubernetes
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" alt="symfony" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="gitlab" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" height="32px" style="padding-right:24px;"/>](https://github.com/pplancq)
+[<img src="./img/php.svg" alt="php" height="32px" style="padding-right:24px;"/>](https://www.php.net)
+[<img src="./img/javascript.svg" alt="javascript" height="32px" style="padding-right:24px;"/>](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[<img src="./img/typescript.svg" alt="typescript" height="32px" style="padding-right:24px;"/>](https://www.typescriptlang.org)
+[<img src="./img/symfony-white.svg" alt="symfony" height="32px" style="padding-right:24px;"/>](https://symfony.com#gh-dark-mode-only)
+[<img src="./img/symfony-black.svg" alt="symfony" height="32px" style="padding-right:24px;"/>](https://symfony.com#gh-light-mode-only)
+[<img src="./img/react.svg" alt="react" height="32px" style="padding-right:24px;"/>](https://react.dev)
+[<img src="./img/git.svg" alt="git" height="32px" style="padding-right:24px;"/>](https://www.git-scm.com)
+[<img src="./img/github-white.svg" alt="github" height="32px" style="padding-right:24px;"/>](https://github.com#gh-dark-mode-only)
+[<img src="./img/github-black.svg" alt="github" height="32px" style="padding-right:24px;"/>](https://github.com#gh-light-mode-only)
+[<img src="./img/gitlab.svg" alt="gitlab" height="32px" style="padding-right:24px;"/>](https://gitlab.com)
+[<img src="./img/docker.svg" alt="docker" height="32px" style="padding-right:24px;"/>](https://www.docker.com)
+[<img src="./img/kubernetes.svg" alt="kubernetes" height="32px" style="padding-right:24px;"/>](https://kubernetes.io)
+[<img src="./img/intellij.svg" alt="intellij" height="32px" style="padding-right:24px;"/>](https://www.jetbrains.com/idea)
 
 ## ⭐ GitHub Stats
 
