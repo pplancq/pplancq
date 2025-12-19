@@ -21,24 +21,10 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: test
-        run: |
-          mkdir -p $HOME/.config/mise
-          echo '[tools]
-          node = "22"
-          npm = "10"' > $HOME/.config/mise/config.toml
-          cat $HOME/.config/mise/config.toml
-
       - name: Setup Node
-        uses: jdx/mise-action@146a28175021df8ca24f8ee1828cc2a60f980bd5 # v3
+        uses: pplancq/actions/setup-node@main
         with:
-          cache: false
-
-      - name: Controle node version
-        run: |
-          mise ls
-          node --version
-          npm --version
+          use-mise: 'true'
 
       - name: Check package-lock.json
         run: npm run package:check
