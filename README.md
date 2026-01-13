@@ -20,11 +20,14 @@ A lightweight React component that loads SVGs at runtime—combining the flexibi
 
 My own design system under active development. Shelter-UI helps me explore UX/UI challenges and build a consistent component library and style guide for presentations, demos and POCs.
 
-## ✨ Highlighted Gists
+[//]: # (## ✨ Highlighted Gists)
 
-[![Gist Card](./profile/useSyncExternalStore.svg)](https://gist.github.com/pplancq/5c4c50e03aa76dfe3502e24263522278/)
-[![Gist Card](./profile/withMemo.svg)](https://gist.github.com/pplancq/53c55e861a4d35ddbd761bbb2b4e73cf/)
-[![Gist Card](./profile/useHandler.svg)](https://gist.github.com/pplancq/590295a46ce8bca1bff85f0915f0e761/)
+[//]: # ()
+[//]: # ([![Gist Card]&#40;./profile/useSyncExternalStore.svg&#41;]&#40;https://gist.github.com/pplancq/5c4c50e03aa76dfe3502e24263522278/&#41;)
+
+[//]: # ([![Gist Card]&#40;./profile/withMemo.svg&#41;]&#40;https://gist.github.com/pplancq/53c55e861a4d35ddbd761bbb2b4e73cf/&#41;)
+
+[//]: # ([![Gist Card]&#40;./profile/useHandler.svg&#41;]&#40;https://gist.github.com/pplancq/590295a46ce8bca1bff85f0915f0e761/&#41;)
 
 ## 🛠️ Tech Stack
 
