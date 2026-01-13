@@ -8,23 +8,23 @@ Clean code isn’t just a buzzword for me. I live by SOLID, DRY and KISS princip
 
 ## 🔥 Signature Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pplancq&repo=dev-tools&theme=material-palenight)](https://github.com/pplancq/dev-tools)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pplancq&repo=dev-tools&theme=material-palenight)](https://github.com/pplancq/dev-tools)
 
 A comprehensive React starter kit preconfigured with ESLint, Stylelint and other tools to guarantee code quality from day one.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pplancq&repo=svg-tools&theme=material-palenight)](https://github.com/pplancq/svg-tools)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pplancq&repo=svg-tools&theme=material-palenight)](https://github.com/pplancq/svg-tools)
 
 A lightweight React component that loads SVGs at runtime—combining the flexibility of inline SVGs with the ease of an `<img>` tag.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pplancq&repo=shelter-ui&theme=material-palenight)](https://github.com/pplancq/shelter-ui)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pplancq&repo=shelter-ui&theme=material-palenight)](https://github.com/pplancq/shelter-ui)
 
 My own design system under active development. Shelter-UI helps me explore UX/UI challenges and build a consistent component library and style guide for presentations, demos and POCs.
 
 ## ✨ Highlighted Gists
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=5c4c50e03aa76dfe3502e24263522278&theme=material-palenight)](https://gist.github.com/pplancq/5c4c50e03aa76dfe3502e24263522278/)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=53c55e861a4d35ddbd761bbb2b4e73cf&theme=material-palenight)](https://gist.github.com/pplancq/53c55e861a4d35ddbd761bbb2b4e73cf/)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=590295a46ce8bca1bff85f0915f0e761&theme=material-palenight)](https://gist.github.com/pplancq/590295a46ce8bca1bff85f0915f0e761/)
+[![Gist Card](https://github-readme-stats-eight-theta.vercel.app/api/gist?id=5c4c50e03aa76dfe3502e24263522278&theme=material-palenight)](https://gist.github.com/pplancq/5c4c50e03aa76dfe3502e24263522278/)
+[![Gist Card](https://github-readme-stats-eight-theta.vercel.app/api/gist?id=53c55e861a4d35ddbd761bbb2b4e73cf&theme=material-palenight)](https://gist.github.com/pplancq/53c55e861a4d35ddbd761bbb2b4e73cf/)
+[![Gist Card](https://github-readme-stats-eight-theta.vercel.app/api/gist?id=590295a46ce8bca1bff85f0915f0e761&theme=material-palenight)](https://gist.github.com/pplancq/590295a46ce8bca1bff85f0915f0e761/)
 
 ## 🛠️ Tech Stack
 
@@ -60,7 +60,7 @@ These values drive collaboration, scalability and long-term project success.
 
 ## ⭐ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pplancq&theme=material-palenight&show_icons=true&hide_title=true&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=pplancq&theme=material-palenight&show_icons=true&hide_title=true&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Connect with Me
 
