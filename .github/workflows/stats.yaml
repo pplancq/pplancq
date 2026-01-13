@@ -1,0 +1,80 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=material-palenight&show_icons=true&hide_title=true&show=reviews
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card dev-tools
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=dev-tools&theme=material-palenight
+          path: profile/dev-tools.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card svg-tools
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=svg-tools&theme=material-palenight
+          path: profile/svg-tools.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card shelter-ui
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=shelter-ui&theme=material-palenight
+          path: profile/shelter-ui.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate gist card useSyncExternalStore
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: gist
+          options: id=5c4c50e03aa76dfe3502e24263522278&theme=material-palenight
+          path: profile/useSyncExternalStore.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate gist card withMemo
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: gist
+          options: id=53c55e861a4d35ddbd761bbb2b4e73cf&theme=material-palenight
+          path: profile/withMemo.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate gist card useHandler
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: gist
+          options: id=590295a46ce8bca1bff85f0915f0e761&theme=material-palenight
+          path: profile/useHandler.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: update README cards svg" || exit 0
+          git push
