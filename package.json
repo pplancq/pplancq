@@ -18,7 +18,7 @@
     "package:check": "npm exec --yes package-lock-utd@1.1.3",
     "prepare": "husky"
   },
-  "packageManager": "npm@11.11.0",
+  "packageManager": "npm@11.11.1",
   "devDependencies": {
     "@commitlint/cli": "^20.4.3",
     "@pplancq/commitlint-config": "^3.0.3",
