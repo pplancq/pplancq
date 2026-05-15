@@ -20,7 +20,7 @@
   },
   "packageManager": "npm@11.14.1",
   "devDependencies": {
-    "@commitlint/cli": "^21.0.0",
+    "@commitlint/cli": "^21.0.1",
     "@pplancq/commitlint-config": "^4.0.0",
     "@pplancq/prettier-config": "^2.0.1",
     "husky": "^9.1.7",
