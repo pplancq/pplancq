@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Paul PLANCQ's GitHub Stats, Rank: A-</title>
+        <title id="titleId">Paul PLANCQ's GitHub Stats, Rank: A</title>
         <desc id="descId">Total Stars Earned: 41, Total Commits  (last year) : 676, Total PRs: 326, Total PRs Reviewed: 102, Total Issues: 312, Contributed to (last year): 10</desc>
         <style>
           .header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 63.12068990691277;
+        stroke-dashoffset: 62.66735763366752;
       }
     }
   
@@ -129,7 +129,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A-
+          A
         </text>
       
         </g>
