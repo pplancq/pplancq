@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Paul PLANCQ's GitHub Stats, Rank: A</title>
+        <title id="titleId">Paul PLANCQ&#39;s GitHub Stats, Rank: A</title>
         <desc id="descId">Total Stars Earned: 41, Total Commits  (last year) : 634, Total PRs: 328, Total PRs Reviewed: 96, Total Issues: 312, Contributed to (last year): 9</desc>
         <style>
           .header {
