@@ -63,16 +63,26 @@ jobs:
             echo "valid=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Open issue if gist token is invalid
+      - name: Create issue for invalid gist token
         if: steps.gist_token.outputs.valid != 'true'
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
         run: |
-          title="GIST_TOKEN is invalid or expired"
-          existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "\"$title\" in:title" --json number --jq '.[0].number')
+          title="🔑 GIST_TOKEN has expired"
+          existing=$(gh issue list --repo "${{ github.repository }}" --state open --search "\"$title\" in:title" --json number --jq '.[0].number')
           if [ -z "$existing" ]; then
-            gh issue create --repo "$GITHUB_REPOSITORY" --title "$title" \
-              --body "The \`GIST_TOKEN\` secret is missing, invalid or expired, so the gist cards were not regenerated. Create a new PAT with the \`gist\` scope and update the \`GIST_TOKEN\` repository secret. Workflow run: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+            gh issue create \
+              --repo "${{ github.repository }}" \
+              --title "$title" \
+              --assignee "${{ github.repository_owner }}" \
+              --body "The \`GIST_TOKEN\` secret is missing, invalid or has expired and needs to be updated. The gist cards were not regenerated.
+
+          **Action required:**
+          1. Generate a new Personal Access Token (classic) with the \`gist\` scope
+          2. Update the \`GIST_TOKEN\` secret in repository settings
+          3. Close this issue once completed
+
+          **Failed workflow run:** ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
           fi
 
       - name: Generate gist card useSyncExternalStore
