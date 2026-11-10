@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Paul PLANCQ&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 42, Total Commits  (last year) : 515, Total PRs: 349, Total PRs Reviewed: 42, Total Issues: 328, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 42, Total Commits  (last year) : 516, Total PRs: 349, Total PRs Reviewed: 44, Total Issues: 328, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 63.832826343954395;
+        stroke-dashoffset: 63.8050081895306;
       }
     }
   
@@ -170,7 +170,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >515</text>
+      >516</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -200,7 +200,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >42</text>
+      >44</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
